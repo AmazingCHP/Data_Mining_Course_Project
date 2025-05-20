@@ -241,7 +241,7 @@ export default {
       selectedRegion: 'China',
       isFullscreen: false,
       isLoading: true,
-      loadingMinTime: 1000, // 最小加载时间（毫秒）
+      loadingMinTime: 400, // 最小加载时间（毫秒）
       loadingStartTime: 0, // 记录加载开始时间
       correlationImage: Correlation,
       importanceImage: Importance,
